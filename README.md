@@ -1,8 +1,10 @@
 [![PyPI version](https://badge.fury.io/py/algorithms-toolbox.svg)](https://badge.fury.io/py/algorithms-toolbox)
+[![Build Status](https://travis-ci.org/quanhua92/algorithms-toolbox.svg?branch=master)](https://travis-ci.org/quanhua92/algorithms-toolbox)
+[![Coverage Status](https://coveralls.io/repos/github/quanhua92/algorithms-toolbox/badge.svg?branch=master)](https://coveralls.io/github/quanhua92/algorithms-toolbox?branch=master)
 
 # algorithms_toolbox
 
-A small collection of algorithms in Python 3
+A small collection of algorithms in Python
 
 ## Tests
 
