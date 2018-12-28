@@ -7,7 +7,7 @@ A small collection of algorithms in Python 3
 ## Tests
 
 ```
-py.test --doctest-modules --cov --cov-report term-missing
+py.test
 ```
 
 ## Installation
