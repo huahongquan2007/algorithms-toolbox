@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/algorithms-toolbox.svg)](https://badge.fury.io/py/algorithms-toolbox)
+
 # algorithms_toolbox
 
 A small collection of algorithms in Python 3
